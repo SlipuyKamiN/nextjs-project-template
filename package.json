@@ -1,6 +1,7 @@
 {
   "name": "nextjs-project-template",
   "version": "0.1.0",
+  "homepage": "https://slipuykamin.github.io/nextjs-project-template/",
   "private": true,
   "scripts": {
     "dev": "next start",
