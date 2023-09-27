@@ -10,10 +10,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/styled": "^11.11.0",
     "next": "latest",
     "normalize.css": "^8.0.1",
     "react": "latest",
     "react-dom": "latest",
+    "react-icons": "^4.11.0",
     "sass": "^1.68.0"
   },
   "devDependencies": {
